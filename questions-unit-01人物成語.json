@@ -1,0 +1,1297 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "proverb",
+    "question": "成語「網開三面」與哪一位歷史人物有關？",
+    "options": ["商湯", "周公", "管仲", "楚莊王"],
+    "answer": 0,
+    "explanation": "商湯將捕鳥者的網放開三面，比喻寬大仁厚，對犯錯的人從寬處置。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「酒池肉林」是用來形容生活極端奢侈縱欲，這與哪位君主有關？",
+    "options": ["周成王", "商紂王", "齊桓公", "晉文公"],
+    "answer": 1,
+    "explanation": "商紂王好酒淫樂，以酒為池，懸肉為林，形容生活極度奢靡。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「吐哺握髮」形容為國家禮賢下士，求才殷切，這是指哪位人物？",
+    "options": ["伯樂", "管仲", "周公", "曹劌"],
+    "answer": 2,
+    "explanation": "周公攝政時，為了接見賢才，吃飯時吐出口中食物，洗頭時握住頭髮，形容求才若渴。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「脣亡齒寒」比喻關係密切，休戚相關。這個成語源於哪位歷史人物的諫言？",
+    "options": ["宮之奇", "鮑叔牙", "柳下惠", "養由基"],
+    "answer": 0,
+    "explanation": "春秋時宮之奇諫虞公，說明虞、虢兩國關係密切，若虢滅則虞危。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「老馬識途」現在常用來稱讚經歷豐富練達的人，這與哪位齊國名相有關？",
+    "options": ["晏子", "管仲", "鮑叔牙", "祁黃羊"],
+    "answer": 1,
+    "explanation": "管仲隨齊桓公出征迷路，利用老馬帶路找到原路。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「管鮑之交」是指心意相投的好友，其中的「鮑」是指哪位人物？",
+    "options": ["鮑叔牙", "鮑照", "鮑魚", "鮑宣"],
+    "answer": 0,
+    "explanation": "指管仲與鮑叔牙之間深厚的情誼。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「坐懷不亂」形容男子行事端正，這與春秋時魯國的哪位人物有關？",
+    "options": ["伯樂", "柳下惠", "鍾子期", "伯牙"],
+    "answer": 1,
+    "explanation": "柳下惠夜宿城門，為恐女子受凍使其坐己懷中以衣裹之，而無亂行。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「退避三舍」指主動退讓以避免衝突，其中的「三舍」在古代是指多少里？",
+    "options": ["三十里", "六十里", "九十里", "一百里"],
+    "answer": 2,
+    "explanation": "古代以三十里為一舍，三舍則為九十里。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「伯樂相馬」常用來比喻什麼？",
+    "options": [
+      "形容馬跑得很快",
+      "有眼力評鑑並薦舉人才",
+      "形容生活奢侈",
+      "做事一鼓作氣"
+    ],
+    "answer": 1,
+    "explanation": "伯樂擅長識馬，後比喻長官或前輩善於識拔人才。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一鼓作氣」這句成語源於長勺之戰中哪位人物的策略？",
+    "options": ["曹劌", "魯莊公", "齊桓公", "管仲"],
+    "answer": 0,
+    "explanation": "曹劌主張趁戰士勇氣最旺盛時發動進攻。"
+  },
+  {
+    "id": 1,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一鳴驚人」比喻平時默默無聞，一旦施展才華便令人佩服。這與哪位君王有關？",
+    "options": ["秦穆公", "楚莊王", "齊威王", "越王勾踐"],
+    "answer": 1,
+    "explanation": "楚莊王即位三年不發號令，一旦發令則震驚全國。"
+  },
+  {
+    "id": 2,
+    "unit": 2,
+    "category": "proverb",
+    "question": "春秋時期的養由基以「百發百中」聞名，他最擅長的技能是？",
+    "options": ["劍術", "騎馬", "射箭", "辯論"],
+    "answer": 2,
+    "explanation": "養由基是著名的神射手，能於百步之外射中柳葉。"
+  },
+  {
+    "id": 3,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「大公無私」形容秉公處理毫無偏私，這與哪位推舉人才的人物有關？",
+    "options": ["祁黃羊", "管仲", "周公", "商湯"],
+    "answer": 0,
+    "explanation": "祁黃羊推舉人才「外舉不避仇，內舉不避親」，被譽為大公無私。"
+  },
+  {
+    "id": 4,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「高山流水」常用來比喻知音難尋，這與哪兩位人物的典故有關？",
+    "options": [
+      "管仲與鮑叔牙",
+      "伯牙與鍾子期",
+      "商湯與周公",
+      "曹劌與魯莊公"
+    ],
+    "answer": 1,
+    "explanation": "伯牙彈琴志在高山流水，唯有鍾子期能聽懂其心志。"
+  },
+  {
+    "id": 5,
+    "unit": 2,
+    "category": "proverb",
+    "question": "下列成語與人物的對應，何者「錯誤」？",
+    "options": [
+      "網開三面：商湯",
+      "坐懷不亂：柳下惠",
+      "一鼓作氣：管仲",
+      "百發百中：養由基"
+    ],
+    "answer": 2,
+    "explanation": "「一鼓作氣」與曹劌有關，而非管仲。"
+  },
+  {
+    "id": 6,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「退避三舍」是哪位君主在流亡期間對楚王許下的諾言？",
+    "options": ["齊桓公", "晉文公", "秦穆公", "楚莊王"],
+    "answer": 1,
+    "explanation": "晉文公（重耳）流亡楚國時，承諾若兩軍交戰將退避九十里。"
+  },
+  {
+    "id": 7,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「夫戰，勇氣也。一鼓作氣，再而衰，三而竭。」這段話出自哪部典故？",
+    "options": ["左傳（曹劌論戰）", "史記", "論語", "孟子"],
+    "answer": 0,
+    "explanation": "這是曹劌在長勺之戰中對魯莊公所說的名言。"
+  },
+  {
+    "id": 8,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「老馬識途」的故事中，除了管仲，還有哪位君主參與其中？",
+    "options": ["齊桓公", "晉文公", "楚莊王", "周成王"],
+    "answer": 0,
+    "explanation": "管仲是隨齊桓公出征孤竹國時發生此故事。"
+  },
+  {
+    "id": 9,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「脣亡齒寒」中的「脣」與「齒」分別比喻哪兩個國家？",
+    "options": ["虞國與虢國", "齊國與魯國", "秦國與晉國", "楚國與越國"],
+    "answer": 0,
+    "explanation": "宮之奇以脣齒比喻虞、虢兩國相依為命的關係。"
+  },
+  {
+    "id": 10,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「吐哺握髮」中的周公，其身分是？",
+    "options": ["商朝最後的君主", "周武王的弟弟", "齊國的相國", "秦國的將軍"],
+    "answer": 1,
+    "explanation": "周公旦是周武王的弟弟，曾輔佐年幼的周成王攝政。"
+  },
+  {
+    "id": 1,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「網開三（  ）」，括號中應填入哪個字？",
+    "options": ["面", "方", "路", "角"],
+    "answer": 0,
+    "explanation": "「網開三面」比喻寬大仁厚，對犯錯的人從寬處置。"
+  },
+  {
+    "id": 2,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「酒池肉（  ）」，括號中應填入哪個字？",
+    "options": ["山", "海", "林", "場"],
+    "answer": 2,
+    "explanation": "「酒池肉林」形容生活極端奢侈縱欲。"
+  },
+  {
+    "id": 3,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「吐哺握（  ）」，括號中應填入哪個字？",
+    "options": ["手", "髮", "拳", "筆"],
+    "answer": 1,
+    "explanation": "「吐哺握髮」形容為國家禮賢下士，求才殷切。"
+  },
+  {
+    "id": 4,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「脣亡齒（  ）」，括號中應填入哪個字？",
+    "options": ["冷", "寒", "痛", "掉"],
+    "answer": 1,
+    "explanation": "「脣亡齒寒」比喻關係密切，休戚相關。"
+  },
+  {
+    "id": 5,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「老馬識（  ）」，括號中應填入哪個字？",
+    "options": ["路", "途", "道", "徑"],
+    "answer": 1,
+    "explanation": "「老馬識途」稱讚經歷豐富練達的人。"
+  },
+  {
+    "id": 6,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「管鮑之（  ）」，括號中應填入哪個字？",
+    "options": ["情", "誼", "交", "友"],
+    "answer": 2,
+    "explanation": "「管鮑之交」指心意相投的好友。"
+  },
+  {
+    "id": 7,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「退避三（  ）」，括號中應填入哪個字？",
+    "options": ["里", "舍", "步", "地"],
+    "answer": 1,
+    "explanation": "「退避三舍」指退兵九十里，後引申為主動退讓。"
+  },
+  {
+    "id": 8,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「一鼓作（  ）」，括號中應填入哪個字？",
+    "options": ["氣", "力", "成", "戰"],
+    "answer": 0,
+    "explanation": "「一鼓作氣」比喻做事趁著初起時的勇氣去做。"
+  },
+  {
+    "id": 9,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「百發百（  ）」，括號中應填入哪個字？",
+    "options": ["準", "中", "對", "贏"],
+    "answer": 1,
+    "explanation": "「百發百中」比喻射擊技藝高妙，或做事有充分把握。"
+  },
+  {
+    "id": 10,
+    "unit": 3,
+    "category": "proverb",
+    "question": "成語填空：「高山流（  ）」，括號中應填入哪個字？",
+    "options": ["雲", "水", "星", "月"],
+    "answer": 1,
+    "explanation": "「高山流水」比喻樂曲高妙或知音難尋。"
+  },
+  {
+    "id": 1,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「韋編三絕」形容人勤奮好學，這與哪位歷史人物讀《易經》的典故有關？",
+    "options": ["老子", "孔子", "孟子", "曾子"],
+    "answer": 1,
+    "explanation": "孔子晚年喜讀《易經》，反覆翻閱使編聯竹簡的皮繩多次斷裂。"
+  },
+  {
+    "id": 2,
+    "unit": 4,
+    "category": "proverb",
+    "question": "下列哪一個成語是用來形容孔子推行仁政、極為忙碌，甚至連坐位都來不及坐暖？",
+    "options": ["席不暇暖", "餘音繞梁", "有教無類", "韋編三絕"],
+    "answer": 0,
+    "explanation": "席不暇暖形容奔走極為忙碌，連坐席都沒時間坐暖。"
+  },
+  {
+    "id": 3,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「簞食瓢飲」是用來讚美哪位孔子弟子安貧樂道的志趣？",
+    "options": ["子路", "子貢", "顏回", "曾子"],
+    "answer": 2,
+    "explanation": "孔子曾稱讚顏回即便生活清苦（一簞食，一瓢飲），仍不改樂道之志。"
+  },
+  {
+    "id": 4,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「殺彘教子」的故事強調父母應以誠實言行教導子女，這與哪位人物有關？",
+    "options": ["曾子", "墨子", "商鞅", "孫武"],
+    "answer": 0,
+    "explanation": "曾子為了履行妻子對兒子的諾言而殺豬，教導孩子守信用的重要。"
+  },
+  {
+    "id": 5,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「三令五申」常用於再三叮嚀告誡，這個成語與哪位「兵聖」有關？",
+    "options": ["管仲", "孫武", "白起", "廉頗"],
+    "answer": 1,
+    "explanation": "孫武在吳國訓練宮女演習兵陣時，再三叮嚀軍令，稱為三令五申。"
+  },
+  {
+    "id": 6,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「班門弄斧」比喻在行家面前賣弄本事，其中的「班」是指哪位古代巧匠？",
+    "options": ["魯班", "班固", "班超", "班昭"],
+    "answer": 0,
+    "explanation": "魯班是春秋末期著名的巧匠，在行家面前弄斧即是不自量力。"
+  },
+  {
+    "id": 7,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「臥薪嚐膽」形容刻苦自勵、發憤圖強，這是哪位君王報仇雪恥的故事？",
+    "options": ["齊桓公", "秦穆公", "越王句踐", "吳王夫差"],
+    "answer": 2,
+    "explanation": "越王句踐戰敗後，睡在柴草上，每天嚐苦膽，以激勵自己復國報仇。"
+  },
+  {
+    "id": 8,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「東施效顰」比喻盲目模仿他人而適得其反，故事中東施模仿的是哪位美女？",
+    "options": ["貂蟬", "王昭君", "西施", "楊貴妃"],
+    "answer": 2,
+    "explanation": "東施模仿西施捧心皺眉的樣子，卻顯得更醜，引人走避。"
+  },
+  {
+    "id": 9,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「摩頂放踵」比喻捨身救世、不辭勞苦，這是哪一學派創始人的精神？",
+    "options": ["孔子", "墨子", "老子", "韓非子"],
+    "answer": 1,
+    "explanation": "墨子主張兼愛非攻，為了救世利人，從頭頂到腳跟受傷也在所不惜。"
+  },
+  {
+    "id": 10,
+    "unit": 4,
+    "category": "proverb",
+    "question": "「一毛不拔」現在多形容吝嗇自私，這原是哪位思想家的主張？",
+    "options": ["楊朱", "墨子", "商鞅", "曾子"],
+    "answer": 0,
+    "explanation": "楊朱主張「為我」，認為即便拔一毛能利天下也不為之。"
+  },
+  {
+    "id": 1,
+    "unit": 5,
+    "category": "proverb",
+    "question": "「作法自斃」比喻自作自受，這與戰國時代哪位推行變法的人物有關？",
+    "options": ["管仲", "商鞅", "李斯", "呂不韋"],
+    "answer": 1,
+    "explanation": "商鞅訂立嚴厲法令，最後自己因變法得罪貴族，逃亡時受限於自訂法律而被害。"
+  },
+  {
+    "id": 2,
+    "unit": 5,
+    "category": "proverb",
+    "question": "商鞅在變法之初，為了取信於民，採取了哪項措施？",
+    "options": ["網開三面", "徙木立信", "三令五申", "一鼓作氣"],
+    "answer": 1,
+    "explanation": "商鞅募民搬移木頭並給予重賞，以證明政府言而有信。"
+  },
+  {
+    "id": 3,
+    "unit": 5,
+    "category": "proverb",
+    "question": "「餘音繞梁」常用來形容歌聲美妙感人，這與哪位人物聞「韶樂」有關？",
+    "options": ["周公", "孔子", "伯牙", "曾子"],
+    "answer": 1,
+    "explanation": "相傳孔子在齊國聽聞韶樂，三月不知肉味，形容音樂餘味不絕。"
+  },
+  {
+    "id": 4,
+    "unit": 5,
+    "category": "proverb",
+    "question": "「春秋筆法」是指在文章中寓褒貶於曲折的文字之中，這源於孔子編寫的哪本書？",
+    "options": ["詩經", "尚書", "春秋", "易經"],
+    "answer": 2,
+    "explanation": "孔子作《春秋》，以嚴謹的文字表達對歷史事件的評價。"
+  },
+  {
+    "id": 5,
+    "unit": 5,
+    "category": "proverb",
+    "question": "孔子主張「有教無類」，這句話的核心意義是？",
+    "options": [
+      "學生必須是貴族",
+      "教學要分門別類",
+      "教育對象不分貴賤貧富",
+      "老師要選擇聰明的學生"
+    ],
+    "answer": 2,
+    "explanation": "指施教對象沒有身分地位的差別。"
+  },
+  {
+    "id": 6,
+    "unit": 5,
+    "category": "proverb",
+    "question": "下列哪一組人物與成語的配對是「正確」的？",
+    "options": [
+      "班門弄斧：顏回",
+      "臥薪嚐膽：越王句踐",
+      "一毛不拔：墨子",
+      "殺彘教子：商鞅"
+    ],
+    "answer": 1,
+    "explanation": "句踐臥薪嚐膽是正確配對；班門弄斧是魯班，一毛不拔是楊朱，殺彘教子是曾子。"
+  },
+  {
+    "id": 7,
+    "unit": 5,
+    "category": "proverb",
+    "question": "「東施效顰」中的「顰」字是指什麼動作？",
+    "options": ["微笑", "皺眉", "大笑", "哭泣"],
+    "answer": 1,
+    "explanation": "顰指皺眉。西施因病皺眉顯得美麗，東施模仿卻變醜。"
+  },
+  {
+    "id": 8,
+    "unit": 5,
+    "category": "proverb",
+    "question": "「韋編三絕」中的「韋」是指什麼材質？",
+    "options": ["絲線", "麻繩", "皮繩", "鐵絲"],
+    "answer": 2,
+    "explanation": "韋是指熟皮，古時用皮繩編聯竹簡。"
+  },
+  {
+    "id": 9,
+    "unit": 5,
+    "category": "proverb",
+    "question": "關於「摩頂放踵」的字義，下列何者正確？",
+    "options": [
+      "頂指頭頂，踵指腳跟",
+      "頂指屋頂，踵指沈重",
+      "頂指頂撞，踵指追隨",
+      "頂指山頂，踵指鐘聲"
+    ],
+    "answer": 0,
+    "explanation": "形容從頭到腳都受損傷，比喻捨身救世的辛勞。"
+  },
+  {
+    "id": 10,
+    "unit": 5,
+    "category": "proverb",
+    "question": "商鞅「徙木立信」的故事中，最後搬移木頭的百姓得到了什麼獎勵？",
+    "options": ["官職", "土地", "黃金", "糧食"],
+    "answer": 2,
+    "explanation": "商鞅給予搬移木頭的人五十金，以示政府守信。"
+  },
+  {
+    "id": 1,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「韋編三（  ）」，括號中應填入哪個字？",
+    "options": ["斷", "絕", "裂", "破"],
+    "answer": 1,
+    "explanation": "「韋編三絕」形容勤奮好學。絕，斷裂。"
+  },
+  {
+    "id": 2,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「餘音繞（  ）」，括號中應填入哪個字？",
+    "options": ["梁", "柱", "壁", "屋"],
+    "answer": 0,
+    "explanation": "「餘音繞梁」形容歌聲或音樂優美，耐人回味。"
+  },
+  {
+    "id": 3,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「席不暇（  ）」，括號中應填入哪個字？",
+    "options": ["坐", "眠", "暖", "食"],
+    "answer": 2,
+    "explanation": "「席不暇暖」形容奔走極為忙碌。"
+  },
+  {
+    "id": 4,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「簞食瓢（  ）」，括號中應填入哪個字？",
+    "options": ["飲", "餐", "水", "食"],
+    "answer": 0,
+    "explanation": "「簞食瓢飲」形容生活清苦，亦比喻安貧樂道。"
+  },
+  {
+    "id": 5,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「三令五（  ）」，括號中應填入哪個字？",
+    "options": ["告", "申", "說", "誡"],
+    "answer": 1,
+    "explanation": "「三令五申」指再三叮嚀告誡。"
+  },
+  {
+    "id": 6,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「臥薪嚐（  ）」，括號中應填入哪個字？",
+    "options": ["苦", "辣", "膽", "心"],
+    "answer": 2,
+    "explanation": "「臥薪嚐膽」形容刻苦自勵，發憤圖強。"
+  },
+  {
+    "id": 7,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「東施效（  ）」，括號中應填入哪個字？",
+    "options": ["顰", "眉", "美", "笑"],
+    "answer": 0,
+    "explanation": "「東施效顰」比喻盲目模仿他人，結果適得其反。"
+  },
+  {
+    "id": 8,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「摩頂放（  ）」，括號中應填入哪個字？",
+    "options": ["足", "身", "踵", "心"],
+    "answer": 2,
+    "explanation": "「摩頂放踵」比喻捨身救世，不辭勞苦。"
+  },
+  {
+    "id": 9,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「作法自（  ）」，括號中應填入哪個字？",
+    "options": ["受", "斃", "害", "縛"],
+    "answer": 1,
+    "explanation": "「作法自斃」比喻自作自受。"
+  },
+  {
+    "id": 10,
+    "unit": 6,
+    "category": "proverb",
+    "question": "成語填空：「徙木立（  ）」，括號中應填入哪個字？",
+    "options": ["法", "信", "威", "德"],
+    "answer": 1,
+    "explanation": "「徙木立信」指為了取信於民而採取的手段。"
+  },
+  {
+    "id": 1,
+    "unit": 7,
+    "category": "proverb",
+    "question": "「孟母三遷」的故事說明了家長為了教育子女，特別重視什麼？",
+    "options": ["家庭財富", "學習環境", "交通便利", "飲食營養"],
+    "answer": 1,
+    "explanation": "孟母為了讓孟子有良好的學習環境而多次搬家。"
+  },
+  {
+    "id": 2,
+    "unit": 7,
+    "category": "proverb",
+    "question": "「學富五車」形容學問淵博，這個成語最初是形容哪位戰國思想家？",
+    "options": ["孟子", "惠施", "莊子", "蘇秦"],
+    "answer": 1,
+    "explanation": "惠施才學淵博，讀過的書多到可以裝滿五部車。"
+  },
+  {
+    "id": 3,
+    "unit": 7,
+    "category": "proverb",
+    "question": "莊子與惠施在濠梁之上辯論游魚是否快樂，這被稱為？",
+    "options": ["知魚之樂", "莊周夢蝶", "鼓盆而歌", "驚弓之鳥"],
+    "answer": 0,
+    "explanation": "「知魚之樂」比喻能體會萬物的情感。"
+  },
+  {
+    "id": 4,
+    "unit": 7,
+    "category": "proverb",
+    "question": "「莊周夢蝶」這個成語主要在表達什麼樣的人生哲理？",
+    "options": ["勤奮好學", "人生變幻無常", "安貧樂道", "誠實守信"],
+    "answer": 1,
+    "explanation": "莊子夢見自己變蝴蝶，醒後感嘆人生如夢，變幻無常。"
+  },
+  {
+    "id": 5,
+    "unit": 7,
+    "category": "proverb",
+    "question": "莊子在妻子過世時「鼓盆而歌」，這反映了他對生死的哪種態度？",
+    "options": ["極度悲傷", "憤世嫉俗", "看透生死，順應自然", "毫無感情"],
+    "answer": 2,
+    "explanation": "莊子認為生死如四季運行，因此以鼓盆唱歌來面對喪妻之痛。"
+  },
+  {
+    "id": 6,
+    "unit": 7,
+    "category": "proverb",
+    "question": "「驚弓之鳥」的故事中，更羸僅是拉動弓弦就讓大雁落下，這是因為大雁？",
+    "options": ["被箭射中", "年老體衰", "曾受箭傷，過度驚懼", "飛得太快"],
+    "answer": 2,
+    "explanation": "比喻曾受打擊的人，稍有動靜就感到害怕。"
+  },
+  {
+    "id": 7,
+    "unit": 7,
+    "category": "proverb",
+    "question": "「三人成虎」的故事是用來勸諫君王不要聽信什麼？",
+    "options": ["甜言蜜語", "謠言讒言", "正確建議", "歷史典故"],
+    "answer": 1,
+    "explanation": "比喻謠言經過多人傳播，就能使人信以為真。"
+  },
+  {
+    "id": 8,
+    "unit": 7,
+    "category": "proverb",
+    "question": "戰國時蘇秦為了讀書不打瞌睡，採取了什麼極端的做法？",
+    "options": ["頭懸梁", "引錐刺骨", "臥薪嚐膽", "摩頂放踵"],
+    "answer": 1,
+    "explanation": "蘇秦讀書欲睡時，拿錐子刺大腿以提神，形容刻苦自勵。"
+  },
+  {
+    "id": 9,
+    "unit": 7,
+    "category": "proverb",
+    "question": "「前倨後恭」形容人待人勢利，態度轉變迅速，這與哪位人物的嫂嫂有關？",
+    "options": ["蘇秦", "張儀", "龐恭", "廉頗"],
+    "answer": 0,
+    "explanation": "蘇秦落魄時嫂子不理，得志後嫂子極為恭敬，蘇秦感嘆其前倨後卑。"
+  },
+  {
+    "id": 10,
+    "unit": 7,
+    "category": "proverb",
+    "question": "戰國四公子之一的孟嘗君，曾靠門客的哪種技能逃脫函谷關？",
+    "options": ["百發百中", "雞鳴狗盜", "完璧歸趙", "負荊請罪"],
+    "answer": 1,
+    "explanation": "孟嘗君靠著會學雞叫與偷竊的門客，才得以順利脫險。"
+  },
+  {
+    "id": 11,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「曲高和寡」原意是指曲調愈高深，能跟著唱的人愈少，後比喻？",
+    "options": [
+      "作品艱深高妙，賞識者很少",
+      "唱歌技巧非常拙劣",
+      "大家都很喜歡的流行音樂",
+      "樂器演奏非常大聲"
+    ],
+    "answer": 0,
+    "explanation": "源自宋玉的對答，比喻知音難求或作品層次太高。"
+  },
+  {
+    "id": 12,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「完璧歸趙」的故事中，藺相如保護的是哪一件寶物？",
+    "options": ["隨侯珠", "和氏璧", "九鼎", "干將劍"],
+    "answer": 1,
+    "explanation": "藺相如巧妙地將和氏璧從秦國安全帶回趙國。"
+  },
+  {
+    "id": 13,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「負荊請罪」是指哪位大將向藺相如謝罪？",
+    "options": ["白起", "王翦", "廉頗", "李牧"],
+    "answer": 2,
+    "explanation": "廉頗感佩藺相如的寬宏大量，背負荊條登門請求原諒。"
+  },
+  {
+    "id": 14,
+    "unit": 8,
+    "category": "proverb",
+    "question": "下列哪一個成語與「莊子」的典故「無關」？",
+    "options": ["知魚之樂", "莊周夢蝶", "鼓盆而歌", "完璧歸趙"],
+    "answer": 3,
+    "explanation": "完璧歸趙與藺相如有關，其餘三者皆出自《莊子》。"
+  },
+  {
+    "id": 15,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「引錐刺骨」中的「股」字，在古代是指身體的哪個部位？",
+    "options": ["屁股", "大腿", "小腿", "手臂"],
+    "answer": 1,
+    "explanation": "古文中的「股」是指大腿。"
+  },
+  {
+    "id": 16,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「雞鳴狗盜」故事中，門客裝狗進入秦宮是為了偷取什麼？",
+    "options": ["和氏璧", "狐白裘", "黃金萬兩", "秦王玉璽"],
+    "answer": 1,
+    "explanation": "門客偷取狐白裘送給秦王寵妃，以換取孟嘗君釋放。"
+  },
+  {
+    "id": 17,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「驚弓之鳥」的「更羸」是哪一個國家的射箭能手？",
+    "options": ["趙國", "魏國", "齊國", "秦國"],
+    "answer": 1,
+    "explanation": "更羸是戰國時期魏國的名射手。"
+  },
+  {
+    "id": 18,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「前倨後恭」的「倨」字是什麼意思？",
+    "options": ["謙虛", "害怕", "傲慢", "驚訝"],
+    "answer": 2,
+    "explanation": "倨是指傲慢無禮。"
+  },
+  {
+    "id": 19,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「孟母三遷」的故事中，孟母最後搬到了哪裡附近，孟子才開始學習禮儀？",
+    "options": ["市場", "墳墓", "學宮（學校）", "官府"],
+    "answer": 2,
+    "explanation": "孟母最後搬到學宮旁，孟子才開始模仿祭祀禮儀與讀書。"
+  },
+  {
+    "id": 20,
+    "unit": 8,
+    "category": "proverb",
+    "question": "「完璧歸趙」現在常用來比喻？",
+    "options": ["東西弄丟了", "物歸原主", "交換禮物", "偷梁換柱"],
+    "answer": 1,
+    "explanation": "比喻將物品完好無損地歸還給原主。"
+  },
+  {
+    "id": 1,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「孟母三（  ）」，括號中應填入哪個字？",
+    "options": ["遷", "移", "搬", "住"],
+    "answer": 0,
+    "explanation": "「孟母三遷」形容家長為教育子女選擇良好環境的苦心。"
+  },
+  {
+    "id": 2,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「學富五（  ）」，括號中應填入哪個字？",
+    "options": ["斗", "車", "箱", "庫"],
+    "answer": 1,
+    "explanation": "「學富五車」形容學問淵博，書多到裝滿五部車。"
+  },
+  {
+    "id": 3,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「莊周夢（  ）」，括號中應填入哪個字？",
+    "options": ["蝶", "蜂", "鳥", "魚"],
+    "answer": 0,
+    "explanation": "「莊周夢蝶」比喻人生變幻無常。"
+  },
+  {
+    "id": 4,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「驚弓之（  ）」，括號中應填入哪個字？",
+    "options": ["獸", "雁", "鳥", "雞"],
+    "answer": 2,
+    "explanation": "「驚弓之鳥」比喻曾受打擊而稍有動靜就害怕的人。"
+  },
+  {
+    "id": 5,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「三人成（  ）」，括號中應填入哪個字？",
+    "options": ["龍", "虎", "狼", "言"],
+    "answer": 1,
+    "explanation": "「三人成虎」比喻謠言惑眾，說的人多了就能使人信以為真。"
+  },
+  {
+    "id": 6,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「引錐刺（  ）」，括號中應填入哪個字？",
+    "options": ["骨", "股", "肉", "心"],
+    "answer": 0,
+    "explanation": "「引錐刺骨」比喻勤奮向學，刻苦自勵。注意教材中對應「骨」字。"
+  },
+  {
+    "id": 7,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「前倨後（  ）」，括號中應填入哪個字？",
+    "options": ["敬", "恭", "卑", "順"],
+    "answer": 1,
+    "explanation": "「前倨後恭」比喻待人勢利，態度轉變迅速。"
+  },
+  {
+    "id": 8,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「雞鳴狗（  ）」，括號中應填入哪個字？",
+    "options": ["偷", "盜", "叫", "跑"],
+    "answer": 1,
+    "explanation": "「雞鳴狗盜」比喻有某種卑下技能的人。"
+  },
+  {
+    "id": 9,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「完璧歸（  ）」，括號中應填入哪個字？",
+    "options": ["趙", "秦", "原", "主"],
+    "answer": 0,
+    "explanation": "「完璧歸趙」比喻物歸原主。"
+  },
+  {
+    "id": 10,
+    "unit": 9,
+    "category": "proverb",
+    "question": "成語填空：「負荊請（  ）」，括號中應填入哪個字？",
+    "options": ["原", "罪", "罰", "過"],
+    "answer": 1,
+    "explanation": "「負荊請罪」形容向對方承認錯誤，請求原諒。"
+  },
+  {
+    "id": 1,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「刎頸之交」是用來形容什麼樣的朋友關係？",
+    "options": ["普通見面的朋友", "利益結合的朋友", "可同生共死、為對方犧牲的朋友", "點頭之交的朋友"],
+    "answer": 2,
+    "explanation": "刎頸之交比喻可同生共死的至交好友，典出廉頗與藺相如。"
+  },
+  {
+    "id": 2,
+    "unit": 10,
+    "category": "proverb",
+    "question": "戰國時趙國的趙括因「紙上談兵」導致長平之役大敗，這成語現在比喻？",
+    "options": ["在紙上畫兵法圖", "不合實際的空談、議論", "寫作能力很強", "作戰計畫非常周詳"],
+    "answer": 1,
+    "explanation": "紙上談兵比喻只會空談理論，卻不知變通，無法解決實際問題。"
+  },
+  {
+    "id": 3,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「毛遂自薦」這句成語常用來比喻什麼樣的行為？",
+    "options": ["被迫接受任務", "自告奮勇，自我推薦", "在背後批評他人", "隱瞞自己的才華"],
+    "answer": 1,
+    "explanation": "毛遂是平原君的門客，他主動請纓隨同前往楚國，最終立下大功。"
+  },
+  {
+    "id": 4,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「一字千金」原是指呂不韋集門客撰寫哪一本書，並懸賞增損一字予千金？",
+    "options": ["春秋", "呂氏春秋", "戰國策", "史記"],
+    "answer": 1,
+    "explanation": "呂不韋撰成《呂氏春秋》後，以此展現書中文字精當，價值極高。"
+  },
+  {
+    "id": 5,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「圖窮匕見」的故事中，荊軻是代表哪一個國家去刺殺秦王？",
+    "options": ["趙國", "魏國", "燕國", "楚國"],
+    "answer": 2,
+    "explanation": "燕太子丹派荊軻獻燕國督亢地圖，地圖展開到最後露出了預藏的匕首。"
+  },
+  {
+    "id": 6,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「指鹿為馬」這句成語現在常用來比喻？",
+    "options": ["辨識動物的能力很差", "顛倒是非，作威作福", "非常有想像力", "對上司絕對忠誠"],
+    "answer": 1,
+    "explanation": "趙高故意指鹿為馬以測試群臣，後比喻人刻意顛倒黑白，混淆是非。"
+  },
+  {
+    "id": 7,
+    "unit": 10,
+    "category": "proverb",
+    "question": "下列哪一位歷史人物與成語「一字千金」有直接關係？",
+    "options": ["呂不韋", "趙高", "荊軻", "趙括"],
+    "answer": 0,
+    "explanation": "呂不韋為秦相國，集門客撰寫《呂氏春秋》並懸賞千金求改一字。"
+  },
+  {
+    "id": 8,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「圖窮匕見」中的「見」字，在此處的讀音與意義為何？",
+    "options": ["ㄐㄧㄢˋ，看見", "ㄒㄧㄢˋ，顯露、呈現", "ㄐㄧㄢˋ，拜會", "ㄒㄧㄢˋ，現在"],
+    "answer": 1,
+    "explanation": "見在此處通「現」，讀作ㄒㄧㄢˋ，意為顯露真相。"
+  },
+  {
+    "id": 9,
+    "unit": 10,
+    "category": "proverb",
+    "question": "趙高「指鹿為馬」的故事發生在秦朝哪位皇帝在位期間？",
+    "options": ["秦始皇", "秦二世", "秦三世", "漢高祖"],
+    "answer": 1,
+    "explanation": "趙高在秦二世胡亥面前指鹿為馬，目的是為了排除異己、篡奪權力。"
+  },
+  {
+    "id": 10,
+    "unit": 10,
+    "category": "proverb",
+    "question": "下列成語與人物的對應，何者「錯誤」？",
+    "options": ["紙上談兵：趙括", "毛遂自薦：毛遂", "刎頸之交：廉頗、藺相如", "圖窮匕見：趙高"],
+    "answer": 3,
+    "explanation": "「圖窮匕見」與荊軻有關，而非趙高；趙高相關的成語是「指鹿為馬」。"
+  },
+  {
+    "id": 1,
+    "unit": 11,
+    "category": "proverb",
+    "question": "成語填空：「刎頸之（  ）」，括號中應填入哪個字？",
+    "options": ["情", "誼", "交", "心"],
+    "answer": 2,
+    "explanation": "「刎頸之交」比喻可同生共死的至交好友。"
+  },
+  {
+    "id": 2,
+    "unit": 11,
+    "category": "proverb",
+    "question": "成語填空：「紙上談（  ）」，括號中應填入哪個字？",
+    "options": ["兵", "戰", "法", "略"],
+    "answer": 0,
+    "explanation": "「紙上談兵」比喻不切實際的空談。"
+  },
+  {
+    "id": 3,
+    "unit": 11,
+    "category": "proverb",
+    "question": "成語填空：「毛遂自（  ）」，括號中應填入哪個字？",
+    "options": ["薦", "推", "舉", "告"],
+    "answer": 0,
+    "explanation": "「毛遂自薦」比喻自告奮勇，自我推薦。"
+  },
+  {
+    "id": 4,
+    "unit": 11,
+    "category": "proverb",
+    "question": "成語填空：「一字千（  ）」，括號中應填入哪個字？",
+    "options": ["銀", "金", "兩", "錢"],
+    "answer": 1,
+    "explanation": "「一字千金」比喻文辭精當，價值極高。"
+  },
+  {
+    "id": 5,
+    "unit": 11,
+    "category": "proverb",
+    "question": "成語填空：「指鹿為（  ）」，括號中應填入哪個字？",
+    "options": ["牛", "羊", "馬", "驢"],
+    "answer": 2,
+    "explanation": "「指鹿為馬」比喻顛倒是非。"
+  },
+  {
+    "id": 6,
+    "unit": 11,
+    "category": "proverb",
+    "question": "成語填空：「圖窮匕（  ）」，括號中應填入哪個字？",
+    "options": ["見", "現", "出", "露"],
+    "answer": 0,
+    "explanation": "「圖窮匕見」比喻形跡敗露，現出真相。"
+  },
+  {
+    "id": 7,
+    "unit": 11,
+    "category": "proverb",
+    "question": "下列哪一個成語與「管仲」有關？",
+    "options": ["網開三面", "酒池肉林", "老馬識途", "脣亡齒寒"],
+    "answer": 2,
+    "explanation": "管仲利用老馬識途的本能帶領軍隊走出迷路。"
+  },
+  {
+    "id": 8,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「酒池肉林」是哪位君主的奢侈行徑？",
+    "options": ["商湯", "商紂王", "周公", "齊桓公"],
+    "answer": 1,
+    "explanation": "商紂王以酒為池，懸肉為林，生活極端奢侈。"
+  },
+  {
+    "id": 9,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「網開三面」表現了哪位人物的仁厚？",
+    "options": ["商湯", "周公", "管仲", "宮之奇"],
+    "answer": 0,
+    "explanation": "商湯對捕鳥者網開三面，展現寬大仁慈。"
+  },
+  {
+    "id": 10,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「脣亡齒寒」是哪位歷史人物提出的警告？",
+    "options": ["管仲", "鮑叔牙", "宮之奇", "晉文公"],
+    "answer": 2,
+    "explanation": "宮之奇以此比喻虞、虢兩國休戚相關的關係。"
+  },
+  {
+    "id": 1,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「一鼓作氣」與下列哪位人物有關？",
+    "options": ["曹劌", "晉文公", "柳下惠", "伯樂"],
+    "answer": 0,
+    "explanation": "曹劌在長勺之戰中主張一鼓作氣擊敗齊軍。"
+  },
+  {
+    "id": 2,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「退避三舍」是哪位君主對楚王的承諾？",
+    "options": ["齊桓公", "晉文公", "秦穆公", "楚莊王"],
+    "answer": 1,
+    "explanation": "晉文公重耳流亡楚國時，許下交戰時退兵九十里的諾言。"
+  },
+  {
+    "id": 3,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「坐懷不亂」形容哪位人物行事端正？",
+    "options": ["伯樂", "柳下惠", "曹劌", "孔子"],
+    "answer": 1,
+    "explanation": "柳下惠與女子同處而不淫亂，形容為人正派。"
+  },
+  {
+    "id": 4,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「管鮑之交」中的「鮑」是指？",
+    "options": ["鮑叔牙", "鮑照", "鮑宣", "鮑魚"],
+    "answer": 0,
+    "explanation": "指管仲與鮑叔牙之間深厚的情誼。"
+  },
+  {
+    "id": 5,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「百發百中」是形容哪位神射手？",
+    "options": ["楚莊王", "養由基", "祁黃羊", "伯牙"],
+    "answer": 1,
+    "explanation": "養由基射箭技藝高超，能百步穿楊。"
+  },
+  {
+    "id": 6,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「一鳴驚人」是關於哪位君王的故事？",
+    "options": ["楚莊王", "齊桓公", "秦始皇", "漢高祖"],
+    "answer": 0,
+    "explanation": "楚莊王即位三年不發令，一發令則震驚天下。"
+  },
+  {
+    "id": 7,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「大公無私」與哪位推舉人才不避親仇的人有關？",
+    "options": ["孔子", "祁黃羊", "曾子", "墨子"],
+    "answer": 1,
+    "explanation": "祁黃羊外舉不避仇，內舉不避親，處事公正。"
+  },
+  {
+    "id": 8,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「高山流水」是指伯牙與誰的知音故事？",
+    "options": ["鍾子期", "鮑叔牙", "顏回", "魯班"],
+    "answer": 0,
+    "explanation": "伯牙鼓琴，鍾子期能聽出琴聲中的志向。"
+  },
+  {
+    "id": 9,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「簞食瓢飲」是孔子用來稱讚哪位弟子的？",
+    "options": ["子路", "子貢", "顏回", "曾子"],
+    "answer": 2,
+    "explanation": "顏回安貧樂道，生活清苦而不改其樂。"
+  },
+  {
+    "id": 10,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「班門弄斧」中的「班」是指？",
+    "options": ["班固", "魯班", "班超", "班昭"],
+    "answer": 1,
+    "explanation": "魯班是古代著名的巧匠。"
+  },
+  {
+    "id": 1,
+    "unit": 13,
+    "category": "proverb",
+    "question": "下列哪一個成語「不屬於」孔子的典故？",
+    "options": ["春秋筆法", "餘音繞梁", "席不暇暖", "三令五申"],
+    "answer": 3,
+    "explanation": "三令五申與孫武有關，其餘三者皆與孔子有關。"
+  },
+  {
+    "id": 2,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「殺彘教子」是關於哪位儒家學者的故事？",
+    "options": ["孟子", "曾子", "荀子", "墨子"],
+    "answer": 1,
+    "explanation": "曾子為了教導兒子守信而殺豬履行諾言。"
+  },
+  {
+    "id": 3,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「摩頂放踵」是形容哪位思想家捨身救世的精神？",
+    "options": ["孔子", "老子", "墨子", "楊朱"],
+    "answer": 2,
+    "explanation": "墨子為了利人救世，不辭勞苦。"
+  },
+  {
+    "id": 4,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「徙木立信」與「作法自斃」都與哪位人物有關？",
+    "options": ["商鞅", "呂不韋", "趙高", "李斯"],
+    "answer": 0,
+    "explanation": "商鞅推行變法，先徙木立信，最後卻作法自斃。"
+  },
+  {
+    "id": 5,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「臥薪嚐膽」是哪位君王發憤圖強的故事？",
+    "options": ["句踐", "夫差", "莊王", "文公"],
+    "answer": 0,
+    "explanation": "越王句踐刻苦自勵，最終復國。"
+  },
+  {
+    "id": 6,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「一毛不拔」原是形容哪位思想家的主張？",
+    "options": ["墨子", "楊朱", "孟子", "莊子"],
+    "answer": 1,
+    "explanation": "楊朱主張「為我」，拔一毛而利天下亦不為。"
+  },
+  {
+    "id": 7,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「東施效顰」中，東施模仿的對象是？",
+    "options": ["西施", "王昭君", "貂蟬", "楊玉環"],
+    "answer": 0,
+    "explanation": "東施盲目模仿西施皺眉，結果更醜。"
+  },
+  {
+    "id": 8,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「驚弓之鳥」是關於哪位射箭能手的成語？",
+    "options": ["更羸", "養由基", "后羿", "紀昌"],
+    "answer": 0,
+    "explanation": "更羸虛拉弓弦即讓受過傷的大雁落下。"
+  },
+  {
+    "id": 9,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「學富五車」最初是形容哪位戰國才子？",
+    "options": ["惠施", "蘇秦", "張儀", "宋玉"],
+    "answer": 0,
+    "explanation": "惠施學問淵博，讀過的書多達五車。"
+  },
+  {
+    "id": 10,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「知魚之樂」是莊子與誰的辯論？",
+    "options": ["惠施", "孔子", "孟子", "老子"],
+    "answer": 0,
+    "explanation": "莊子與惠施在濠水邊辯論魚是否快樂。"
+  },
+  {
+    "id": 31,
+    "unit": 4,
+    "category": "proverb",
+    "question": "下列哪一個成語與「莊子」無關？",
+    "options": ["莊周夢蝶", "鼓盆而歌", "知魚之樂", "孟母三遷"],
+    "answer": 3,
+    "explanation": "孟母三遷與孟子有關。"
+  },
+  {
+    "id": 2,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「三人成虎」是哪位人物用來勸諫魏王的？",
+    "options": ["龐恭", "蘇秦", "張儀", "毛遂"],
+    "answer": 0,
+    "explanation": "龐恭以三人成虎比喻謠言惑眾。"
+  },
+  {
+    "id": 3,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「前倨後恭」與「引錐刺股」都與哪位縱橫家有關？",
+    "options": ["蘇秦", "張儀", "范雎", "甘茂"],
+    "answer": 0,
+    "explanation": "蘇秦刻苦讀書（刺股），成名後嫂嫂態度轉變（前倨後恭）。"
+  },
+  {
+    "id": 4,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「曲高和寡」是關於哪位戰國文人的典故？",
+    "options": ["宋玉", "屈原", "賈誼", "司馬相如"],
+    "answer": 0,
+    "explanation": "宋玉以曲高和寡比喻作品高妙而知音少。"
+  },
+  {
+    "id": 5,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「負荊請罪」是廉頗向誰謝罪？",
+    "options": ["藺相如", "趙王", "平原君", "毛遂"],
+    "answer": 0,
+    "explanation": "廉頗背負荊條向藺相如請求原諒。"
+  },
+  {
+    "id": 6,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「雞鳴狗盜」是關於哪位戰國公子的門客？",
+    "options": ["孟嘗君", "平原君", "信陵君", "春申君"],
+    "answer": 0,
+    "explanation": "孟嘗君靠著有卑下技能的門客脫險。"
+  },
+  {
+    "id": 7,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「圖窮匕見」是關於哪位刺客的故事？",
+    "options": ["荊軻", "聶政", "專諸", "豫讓"],
+    "answer": 0,
+    "explanation": "荊軻刺秦王，地圖展盡露出匕首。"
+  },
+  {
+    "id": 8,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「紙上談兵」是指哪位趙國將領？",
+    "options": ["趙括", "趙奢", "廉頗", "李牧"],
+    "answer": 0,
+    "explanation": "趙括只會空談兵法，導致長平之戰大敗。"
+  },
+  {
+    "id": 9,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「一字千金」是哪位秦國權臣的典故？",
+    "options": ["呂不韋", "趙高", "李斯", "商鞅"],
+    "answer": 0,
+    "explanation": "呂不韋撰寫《呂氏春秋》，懸賞千金求改一字。"
+  },
+  {
+    "id": 10,
+    "unit": 14,
+    "category": "proverb",
+    "question": "「指鹿為馬」是哪位權臣欺瞞秦二世的行為？",
+    "options": ["趙高", "李斯", "呂不韋", "蒙恬"],
+    "answer": 0,
+    "explanation": "趙高指鹿為馬以測試群臣是否畏懼自己。"
+  }
+]
