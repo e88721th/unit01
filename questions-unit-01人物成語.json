@@ -1028,96 +1028,6 @@
     "id": 1,
     "unit": 12,
     "category": "proverb",
-    "question": "「一鼓作氣」與下列哪位人物有關？",
-    "options": ["曹劌", "晉文公", "柳下惠", "伯樂"],
-    "answer": 0,
-    "explanation": "曹劌在長勺之戰中主張一鼓作氣擊敗齊軍。"
-  },
-  {
-    "id": 2,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「退避三舍」是哪位君主對楚王的承諾？",
-    "options": ["齊桓公", "晉文公", "秦穆公", "楚莊王"],
-    "answer": 1,
-    "explanation": "晉文公重耳流亡楚國時，許下交戰時退兵九十里的諾言。"
-  },
-  {
-    "id": 3,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「坐懷不亂」形容哪位人物行事端正？",
-    "options": ["伯樂", "柳下惠", "曹劌", "孔子"],
-    "answer": 1,
-    "explanation": "柳下惠與女子同處而不淫亂，形容為人正派。"
-  },
-  {
-    "id": 4,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「管鮑之交」中的「鮑」是指？",
-    "options": ["鮑叔牙", "鮑照", "鮑宣", "鮑魚"],
-    "answer": 0,
-    "explanation": "指管仲與鮑叔牙之間深厚的情誼。"
-  },
-  {
-    "id": 5,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「百發百中」是形容哪位神射手？",
-    "options": ["楚莊王", "養由基", "祁黃羊", "伯牙"],
-    "answer": 1,
-    "explanation": "養由基射箭技藝高超，能百步穿楊。"
-  },
-  {
-    "id": 6,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「一鳴驚人」是關於哪位君王的故事？",
-    "options": ["楚莊王", "齊桓公", "秦始皇", "漢高祖"],
-    "answer": 0,
-    "explanation": "楚莊王即位三年不發令，一發令則震驚天下。"
-  },
-  {
-    "id": 7,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「大公無私」與哪位推舉人才不避親仇的人有關？",
-    "options": ["孔子", "祁黃羊", "曾子", "墨子"],
-    "answer": 1,
-    "explanation": "祁黃羊外舉不避仇，內舉不避親，處事公正。"
-  },
-  {
-    "id": 8,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「高山流水」是指伯牙與誰的知音故事？",
-    "options": ["鍾子期", "鮑叔牙", "顏回", "魯班"],
-    "answer": 0,
-    "explanation": "伯牙鼓琴，鍾子期能聽出琴聲中的志向。"
-  },
-  {
-    "id": 9,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「簞食瓢飲」是孔子用來稱讚哪位弟子的？",
-    "options": ["子路", "子貢", "顏回", "曾子"],
-    "answer": 2,
-    "explanation": "顏回安貧樂道，生活清苦而不改其樂。"
-  },
-  {
-    "id": 10,
-    "unit": 12,
-    "category": "proverb",
-    "question": "「班門弄斧」中的「班」是指？",
-    "options": ["班固", "魯班", "班超", "班昭"],
-    "answer": 1,
-    "explanation": "魯班是古代著名的巧匠。"
-  },
-  {
-    "id": 1,
-    "unit": 13,
-    "category": "proverb",
     "question": "下列哪一個成語「不屬於」孔子的典故？",
     "options": ["春秋筆法", "餘音繞梁", "席不暇暖", "三令五申"],
     "answer": 3,
@@ -1125,7 +1035,7 @@
   },
   {
     "id": 2,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「殺彘教子」是關於哪位儒家學者的故事？",
     "options": ["孟子", "曾子", "荀子", "墨子"],
@@ -1134,7 +1044,7 @@
   },
   {
     "id": 3,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「摩頂放踵」是形容哪位思想家捨身救世的精神？",
     "options": ["孔子", "老子", "墨子", "楊朱"],
@@ -1143,7 +1053,7 @@
   },
   {
     "id": 4,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「徙木立信」與「作法自斃」都與哪位人物有關？",
     "options": ["商鞅", "呂不韋", "趙高", "李斯"],
@@ -1152,7 +1062,7 @@
   },
   {
     "id": 5,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「臥薪嚐膽」是哪位君王發憤圖強的故事？",
     "options": ["句踐", "夫差", "莊王", "文公"],
@@ -1161,7 +1071,7 @@
   },
   {
     "id": 6,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「一毛不拔」原是形容哪位思想家的主張？",
     "options": ["墨子", "楊朱", "孟子", "莊子"],
@@ -1170,7 +1080,7 @@
   },
   {
     "id": 7,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「東施效顰」中，東施模仿的對象是？",
     "options": ["西施", "王昭君", "貂蟬", "楊玉環"],
@@ -1179,7 +1089,7 @@
   },
   {
     "id": 8,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「驚弓之鳥」是關於哪位射箭能手的成語？",
     "options": ["更羸", "養由基", "后羿", "紀昌"],
@@ -1188,7 +1098,7 @@
   },
   {
     "id": 9,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「學富五車」最初是形容哪位戰國才子？",
     "options": ["惠施", "蘇秦", "張儀", "宋玉"],
@@ -1197,7 +1107,7 @@
   },
   {
     "id": 10,
-    "unit": 13,
+    "unit": 12,
     "category": "proverb",
     "question": "「知魚之樂」是莊子與誰的辯論？",
     "options": ["惠施", "孔子", "孟子", "老子"],
@@ -1205,8 +1115,8 @@
     "explanation": "莊子與惠施在濠水邊辯論魚是否快樂。"
   },
   {
-    "id": 31,
-    "unit": 4,
+    "id": 1,
+    "unit": 13,
     "category": "proverb",
     "question": "下列哪一個成語與「莊子」無關？",
     "options": ["莊周夢蝶", "鼓盆而歌", "知魚之樂", "孟母三遷"],
@@ -1215,7 +1125,7 @@
   },
   {
     "id": 2,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「三人成虎」是哪位人物用來勸諫魏王的？",
     "options": ["龐恭", "蘇秦", "張儀", "毛遂"],
@@ -1224,7 +1134,7 @@
   },
   {
     "id": 3,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「前倨後恭」與「引錐刺股」都與哪位縱橫家有關？",
     "options": ["蘇秦", "張儀", "范雎", "甘茂"],
@@ -1233,7 +1143,7 @@
   },
   {
     "id": 4,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「曲高和寡」是關於哪位戰國文人的典故？",
     "options": ["宋玉", "屈原", "賈誼", "司馬相如"],
@@ -1242,7 +1152,7 @@
   },
   {
     "id": 5,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「負荊請罪」是廉頗向誰謝罪？",
     "options": ["藺相如", "趙王", "平原君", "毛遂"],
@@ -1251,7 +1161,7 @@
   },
   {
     "id": 6,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「雞鳴狗盜」是關於哪位戰國公子的門客？",
     "options": ["孟嘗君", "平原君", "信陵君", "春申君"],
@@ -1260,7 +1170,7 @@
   },
   {
     "id": 7,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「圖窮匕見」是關於哪位刺客的故事？",
     "options": ["荊軻", "聶政", "專諸", "豫讓"],
@@ -1269,7 +1179,7 @@
   },
   {
     "id": 8,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「紙上談兵」是指哪位趙國將領？",
     "options": ["趙括", "趙奢", "廉頗", "李牧"],
@@ -1278,7 +1188,7 @@
   },
   {
     "id": 9,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「一字千金」是哪位秦國權臣的典故？",
     "options": ["呂不韋", "趙高", "李斯", "商鞅"],
@@ -1287,7 +1197,7 @@
   },
   {
     "id": 10,
-    "unit": 14,
+    "unit": 13,
     "category": "proverb",
     "question": "「指鹿為馬」是哪位權臣欺瞞秦二世的行為？",
     "options": ["趙高", "李斯", "呂不韋", "蒙恬"],
